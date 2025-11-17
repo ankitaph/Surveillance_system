@@ -29,9 +29,7 @@ Although the dataset used for model training is **not included**, the project pr
 ## 📁 Deliverables Included
 
 - ✅ Fully functional codebase (person detection + tracking)  
-- ✅ Pretrained YOLOv8 model file  
-- ❌ Dataset (not included)  
-- ❌ GitHub deployment (not part of this submission)  
+- ✅ Pretrained YOLOv8 model file   
 - ✅ README.md (setup + usage instructions)  
 - ✅ requirements.txt (dependencies list)
 
