@@ -13,7 +13,6 @@ Although the dataset used for model training is **not included**, the project pr
 - A pretrained **YOLOv8 model (.pt)** for person detection
 - Full pipeline for **real-time tracking**
 - Instructions for setup and usage
-- `requirements.txt` for dependency installation
 
 ---
 
