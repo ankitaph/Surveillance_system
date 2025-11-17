@@ -42,7 +42,5 @@ Although the dataset used for model training is **not included**, the project pr
 
 ### **1. Install Dependencies**
 
-Use the provided `requirements.txt`:
-
-```bash
-pip install -r requirements.txt
+!pip install ultralytics
+!pip install deep-sort-realtime opencv-python numpy
